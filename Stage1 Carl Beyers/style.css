@@ -1,0 +1,36 @@
+body {
+  background-color: grey;
+  font-family: arial;
+}
+.italic{
+  font-style: italic;
+}
+.bold{
+  font-weight:bold;
+}
+.CSSformat{
+  font-weight:bold;
+  color:orange;
+}
+h1,h2,h3{
+  text-align:center;
+  font-size:40px;
+  margin: 8px;
+  color: grey;
+}
+.slide{
+  background-color: pink;
+    border-radius: 20px;
+    color: white;
+    padding: 10px;
+}
+.slide-body{
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    padding: 10px;
+}
+ul {
+    list-style-type: circle;
+}
+
